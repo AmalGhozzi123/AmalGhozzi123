@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Mern ,python**
 
-- 📫 How to reach me **amalghozzi2002@gmail.com**
+- 📧 How to reach me **amalghozzi2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
