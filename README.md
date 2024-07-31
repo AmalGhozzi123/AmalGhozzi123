@@ -181,22 +181,22 @@ I'm Amal Ghozzi, a Full-Stack Developer with a deep passion for creating robust 
 
 
 ---
-
 ### 📈 My GitHub Stats:
 
 <p align="center">
   <a href="https://github.com/amalghozzi123">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amalghozzi123&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amalghozzi123&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px;"/>
   </a>
   <a href="https://github.com/amalghozzi123">
-    <img src="https://github-readme-stats.vercel.app/api?username=amalghozzi123&show_icons=true&locale=en" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=amalghozzi123&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px;"/>
   </a>
   <a href="https://github.com/amalghozzi123">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amalghozzi123" alt="GitHub Streak" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amalghozzi123&theme=radical" alt="GitHub Streak" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px;"/>
   </a>
 </p>
 
 ---
 
 <h3 align="center">Thank you for visiting my GitHub profile! Feel free to connect and explore my projects.</h3>
+
 
