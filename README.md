@@ -23,32 +23,32 @@
 <p align="left">
   <h3>Languages:</h3>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <button style="background: none; border: none; cursor: pointer;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+    <button style="background-color: #f8f9fa; border: 1px solid #ced4da; border-radius: 5px; padding: 10px; display: flex; align-items: center; cursor: pointer; transition: all 0.3s ease;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-right: 8px;"/>
       <span>C</span>
     </button>
   </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <button style="background: none; border: none; cursor: pointer;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+    <button style="background-color: #f8f9fa; border: 1px solid #ced4da; border-radius: 5px; padding: 10px; display: flex; align-items: center; cursor: pointer; transition: all 0.3s ease;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="margin-right: 8px;"/>
       <span>C#</span>
     </button>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <button style="background: none; border: none; cursor: pointer;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+    <button style="background-color: #f8f9fa; border: 1px solid #ced4da; border-radius: 5px; padding: 10px; display: flex; align-items: center; cursor: pointer; transition: all 0.3s ease;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right: 8px;"/>
       <span>Java</span>
     </button>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <button style="background: none; border: none; cursor: pointer;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <button style="background-color: #f8f9fa; border: 1px solid #ced4da; border-radius: 5px; padding: 10px; display: flex; align-items: center; cursor: pointer; transition: all 0.3s ease;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 8px;"/>
       <span>Python</span>
     </button>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <button style="background: none; border: none; cursor: pointer;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+    <button style="background-color: #f8f9fa; border: 1px solid #ced4da; border-radius: 5px; padding: 10px; display: flex; align-items: center; cursor: pointer; transition: all 0.3s ease;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right: 8px;"/>
       <span>TypeScript</span>
     </button>
   </a>
@@ -57,38 +57,38 @@
 <p align="left">
   <h3>Frontend:</h3>
   <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <button style="background: none; border: none; cursor: pointer;">
-      <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
+    <button style="background-color: #f8f9fa; border: 1px solid #ced4da; border-radius: 5px; padding: 10px; display: flex; align-items: center; cursor: pointer; transition: all 0.3s ease;">
+      <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" style="margin-right: 8px;"/>
       <span>Angular</span>
     </button>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <button style="background: none; border: none; cursor: pointer;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+    <button style="background-color: #f8f9fa; border: 1px solid #ced4da; border-radius: 5px; padding: 10px; display: flex; align-items: center; cursor: pointer; transition: all 0.3s ease;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" style="margin-right: 8px;"/>
       <span>Bootstrap</span>
     </button>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <button style="background: none; border: none; cursor: pointer;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+    <button style="background-color: #f8f9fa; border: 1px solid #ced4da; border-radius: 5px; padding: 10px; display: flex; align-items: center; cursor: pointer; transition: all 0.3s ease;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" style="margin-right: 8px;"/>
       <span>CSS</span>
     </button>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <button style="background: none; border: none; cursor: pointer;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+    <button style="background-color: #f8f9fa; border: 1px solid #ced4da; border-radius: 5px; padding: 10px; display: flex; align-items: center; cursor: pointer; transition: all 0.3s ease;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin-right: 8px;"/>
       <span>React</span>
     </button>
   </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <button style="background: none; border: none; cursor: pointer;">
-      <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
+    <button style="background-color: #f8f9fa; border: 1px solid #ced4da; border-radius: 5px; padding: 10px; display: flex; align-items: center; cursor: pointer; transition: all 0.3s ease;">
+      <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" style="margin-right: 8px;"/>
       <span>React Native</span>
     </button>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <button style="background: none; border: none; cursor: pointer;">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+    <button style="background-color: #f8f9fa; border: 1px solid #ced4da; border-radius: 5px; padding: 10px; display: flex; align-items: center; cursor: pointer; transition: all 0.3s ease;">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" style="margin-right: 8px;"/>
       <span>Tailwind CSS</span>
     </button>
   </a>
@@ -97,33 +97,33 @@
 <p align="left">
   <h3>Backend:</h3>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <button style="background: none; border: none; cursor: pointer;">
-      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
+    <button style="background-color: #f8f9fa; border: 1px solid #ced4da; border-radius: 5px; padding: 10px; display: flex; align-items: center; cursor: pointer; transition: all 0.3s ease;">
+      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" style="margin-right: 8px;"/>
       <span>Django</span>
     </button>
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <button style="background: none; border: none; cursor: pointer;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <button style="background-color: #f8f9fa; border: 1px solid #ced4da; border-radius: 5px; padding: 10px; display: flex; align-items: center; cursor: pointer; transition: all 0.3s ease;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" style="margin-right: 8px;"/>
       <span>Express</span>
     </button>
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <button style="background: none; border: none; cursor: pointer;">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-      <span>Firebase</span>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <button style="background-color: #f8f9fa; border: 1px solid #ced4da; border-radius: 5px; padding: 10px; display: flex; align-items: center; cursor: pointer; transition: all 0.3s ease;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right: 8px;"/>
+      <span>Java</span>
     </button>
   </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <button style="background: none; border: none; cursor: pointer;">
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <button style="background-color: #f8f9fa; border: 1px solid #ced4da; border-radius: 5px; padding: 10px; display: flex; align-items: center; cursor: pointer; transition: all 0.3s ease;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="margin-right: 8px;"/>
+      <span>PHP</span>
+    </button>
+  </a>
+  <a href="https://www.spring.io/" target="_blank" rel="noreferrer">
+    <button style="background-color: #f8f9fa; border: 1px solid #ced4da; border-radius: 5px; padding: 10px; display: flex; align-items: center; cursor: pointer; transition: all 0.3s ease;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="40" height="40" style="margin-right: 8px;"/>
       <span>Spring</span>
-    </button>
-  </a>
-  <a href="https://symfony.com" target="_blank" rel="noreferrer">
-    <button style="background: none; border: none; cursor: pointer;">
-      <img src="https://symfony.com/logos/symfony_black_03.svg" alt="Symfony" width="40" height="40"/>
-      <span>Symfony</span>
     </button>
   </a>
 </p>
@@ -131,70 +131,41 @@
 <p align="left">
   <h3>Databases:</h3>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <button style="background: none; border: none; cursor: pointer;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+    <button style="background-color: #f8f9fa; border: 1px solid #ced4da; border-radius: 5px; padding: 10px; display: flex; align-items: center; cursor: pointer; transition: all 0.3s ease;">
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40" style="margin-right: 8px;"/>
       <span>MongoDB</span>
     </button>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <button style="background: none; border: none; cursor: pointer;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+    <button style="background-color: #f8f9fa; border: 1px solid #ced4da; border-radius: 5px; padding: 10px; display: flex; align-items: center; cursor: pointer; transition: all 0.3s ease;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin-right: 8px;"/>
       <span>MySQL</span>
     </button>
   </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <button style="background: none; border: none; cursor: pointer;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-      <span>Oracle</span>
-    </button>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <button style="background: none; border: none; cursor: pointer;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <button style="background-color: #f8f9fa; border: 1px solid #ced4da; border-radius: 5px; padding: 10px; display: flex; align-items: center; cursor: pointer; transition: all 0.3s ease;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="margin-right: 8px;"/>
       <span>PostgreSQL</span>
     </button>
   </a>
 </p>
 
 <p align="left">
-  <h3>Other Tools:</h3>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <button style="background: none; border: none; cursor: pointer;">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-      <span>Git</span>
-    </button>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <button style="background: none; border: none; cursor: pointer;">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <h3>Testing Tools:</h3>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <button style="background-color: #f8f9fa; border: 1px solid #ced4da; border-radius: 5px; padding: 10px; display: flex; align-items: center; cursor: pointer; transition: all 0.3s ease;">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" style="margin-right: 8px;"/>
       <span>Postman</span>
     </button>
   </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <button style="background: none; border: none; cursor: pointer;">
-      <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+    <button style="background-color: #f8f9fa; border: 1px solid #ced4da; border-radius: 5px; padding: 10px; display: flex; align-items: center; cursor: pointer; transition: all 0.3s ease;">
+      <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" width="40" height="40" style="margin-right: 8px;"/>
       <span>Selenium</span>
     </button>
   </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <button style="background: none; border: none; cursor: pointer;">
-      <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40"/>
-      <span>Kafka</span>
-    </button>
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <button style="background: none; border: none; cursor: pointer;">
-      <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
-      <span>Blender</span>
-    </button>
-  </a>
-  <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer">
-    <button style="background: none; border: none; cursor: pointer;">
-      <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="Xamarin" width="40" height="40"/>
-      <span>Xamarin</span>
-    </button>
-  </a>
 </p>
+
 
 ---
 
