@@ -9,6 +9,19 @@
 
 ---
 
+
+### 📖 About Me:
+I'm Amal Ghozzi, a Full-Stack Developer with a deep passion for creating robust and scalable web applications. With a strong background in both frontend and backend technologies, I thrive on tackling complex challenges and delivering efficient solutions. My journey started with a Bachelor's degree in Information Technology and has led me through various projects and roles that have honed my skills in multiple programming languages and frameworks.
+
+### 🔍 Interests and Goals:
+- **Passion for Learning:** I am always eager to learn new technologies and methodologies to stay ahead in the ever-evolving tech landscape.
+- **Problem Solver:** I enjoy dissecting complex problems and finding innovative solutions that enhance user experience and functionality.
+- **Collaboration:** I believe in the power of teamwork and am excited about opportunities to collaborate with others to achieve common goals.
+
+💡 **Fun Fact:** When I'm not coding, you can find me drawing, reading, or catching up on the latest cinema releases!
+
+---
+
 ### 📧 How to Reach Me:
 - **Email:** [amalghozzi2002@gmail.com](mailto:amalghozzi2002@gmail.com)
 
