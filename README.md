@@ -10,22 +10,22 @@
 ---
 
 
-### 📝 About Me:
+### 📝 About Me :
 I'm Amal Ghozzi, a Full-Stack Developer with a deep passion for creating robust and scalable web applications. With a strong background in both frontend and backend technologies, I thrive on tackling complex challenges and delivering efficient solutions. My journey started with a Bachelor's degree in Information Technology and has led me through various projects and roles that have honed my skills in multiple programming languages and frameworks.
 
-### 🔍 Interests and Goals:
-- **Passion for Learning:** I am always eager to learn new technologies and methodologies to stay ahead in the ever-evolving tech landscape.
-- **Problem Solver:** I enjoy dissecting complex problems and finding innovative solutions that enhance user experience and functionality.
-- **Collaboration:** I believe in the power of teamwork and am excited about opportunities to collaborate with others to achieve common goals.
+### 🔍 Interests and Goals :
+- **Passion for Learning :** I am always eager to learn new technologies and methodologies to stay ahead in the ever-evolving tech landscape.
+- **Problem Solver :** I enjoy dissecting complex problems and finding innovative solutions that enhance user experience and functionality.
+- **Collaboration :** I believe in the power of teamwork and am excited about opportunities to collaborate with others to achieve common goals.
 
-🌟 **Fun Fact:** When I'm not coding, you can find me drawing, reading, or catching up on the latest cinema releases!
+🌟 **Fun Fact :** When I'm not coding, you can find me drawing, reading, or catching up on the latest cinema releases!
 
 ---
 
-### 📧 How to Reach Me:
-- **Email:** [amalghozzi@outlook.com](mailto:amalghozzi@outlook.com)
+### 📧 How to Reach Me :
+- **Email :** [amalghozzi@outlook.com](mailto:amalghozzi@outlook.com)
 
-### 🔗 Connect with Me:
+### 🔗 Connect with Me :
 <p align="left">
 <a href="https://www.linkedin.com/in/amal-ghozzi-205a21234" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
@@ -34,7 +34,7 @@ I'm Amal Ghozzi, a Full-Stack Developer with a deep passion for creating robust 
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <h3>Languages:</h3>
+  <h3>Languages :</h3>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <button style="background-color: #f8f9fa; border: 1px solid #ced4da; border-radius: 5px; padding: 10px; display: flex; align-items: center; cursor: pointer; transition: all 0.3s ease;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-right: 8px;"/>
@@ -68,7 +68,7 @@ I'm Amal Ghozzi, a Full-Stack Developer with a deep passion for creating robust 
 </p>
 
 <p align="left">
-  <h3>Frontend:</h3>
+  <h3>Frontend :</h3>
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <button style="background-color: #f8f9fa; border: 1px solid #ced4da; border-radius: 5px; padding: 10px; display: flex; align-items: center; cursor: pointer; transition: all 0.3s ease;">
       <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" style="margin-right: 8px;"/>
@@ -108,7 +108,7 @@ I'm Amal Ghozzi, a Full-Stack Developer with a deep passion for creating robust 
 </p>
 
 <p align="left">
-  <h3>Backend:</h3>
+  <h3>Backend :</h3>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <button style="background-color: #f8f9fa; border: 1px solid #ced4da; border-radius: 5px; padding: 10px; display: flex; align-items: center; cursor: pointer; transition: all 0.3s ease;">
       <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" style="margin-right: 8px;"/>
@@ -142,7 +142,7 @@ I'm Amal Ghozzi, a Full-Stack Developer with a deep passion for creating robust 
 </p>
 
 <p align="left">
-  <h3>Databases:</h3>
+  <h3>Databases :</h3>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <button style="background-color: #f8f9fa; border: 1px solid #ced4da; border-radius: 5px; padding: 10px; display: flex; align-items: center; cursor: pointer; transition: all 0.3s ease;">
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40" style="margin-right: 8px;"/>
@@ -164,7 +164,7 @@ I'm Amal Ghozzi, a Full-Stack Developer with a deep passion for creating robust 
 </p>
 
 <p align="left">
-  <h3>Testing Tools:</h3>
+  <h3>Testing Tools :</h3>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <button style="background-color: #f8f9fa; border: 1px solid #ced4da; border-radius: 5px; padding: 10px; display: flex; align-items: center; cursor: pointer; transition: all 0.3s ease;">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" style="margin-right: 8px;"/>
@@ -181,7 +181,7 @@ I'm Amal Ghozzi, a Full-Stack Developer with a deep passion for creating robust 
 
 
 ---
-### 📈 My GitHub Stats:
+### 📈 My GitHub Stats :
 
 <p align="center">
   <a href="https://github.com/amalghozzi123">
