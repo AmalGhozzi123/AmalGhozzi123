@@ -23,7 +23,7 @@ I'm Amal Ghozzi, a Full-Stack Developer with a deep passion for creating robust 
 ---
 
 ### 📧 How to Reach Me:
-- **Email:** [amalghozzi2002@gmail.com](mailto:amalghozzi2002@gmail.com)
+- **Email:** [amalghozzi@outlook.com](mailto:amalghozzi@outlook.com)
 
 ### 🔗 Connect with Me:
 <p align="left">
