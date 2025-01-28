@@ -11,7 +11,7 @@
 
 
 ### 📝 About Me :
-I'm Amal Ghozzi, a Full-Stack Developer with a deep passion for creating robust and scalable web applications. With a strong background in both frontend and backend technologies, I thrive on tackling complex challenges and delivering efficient solutions. My journey started with a Bachelor's degree in Information Technology and has led me through various projects and roles that have honed my skills in multiple programming languages and frameworks.
+I'm Amal Ghozzi, a Full-Stack Developer with a strong passion for creating robust and scalable web applications. I hold a Bachelor's degree in Information Technology from the Higher Institute of Technological Studies of Radès, where I developed a solid foundation in both frontend and backend technologies. Currently, I am pursuing my first year of a Master's program in Business Intelligence, further expanding my expertise in data analysis and decision-making systems. My journey has been marked by various projects and roles that have refined my skills in multiple programming languages and frameworks, allowing me to tackle complex challenges and deliver innovative solutions.
 
 ### 🔍 Interests and Goals :
 - **Passion for Learning :** I am always eager to learn new technologies and methodologies to stay ahead in the ever-evolving tech landscape.
