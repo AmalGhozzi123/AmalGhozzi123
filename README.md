@@ -1,7 +1,7 @@
 ![MasterHead](https://teamtweaks1-blog.s3.us-east-2.amazonaws.com/blog/wp-content/uploads/2023/03/15102639/TT-How-To-Hire-Dedicated-Full-Stack-Developer-2023_.png)
 
 <h1 align="center">Hi 👋, I'm Amal Ghozzi</h1>
-<h3 align="center">A passionate Full-Stack Developer from Tunisia <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg" alt="Tunisia Flag" width="30"/> </h3>
+<h3 align="center">A passionate Full-Stack Developer and a first-year Business Intelligence student from Tunisia <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg" alt="Tunisia Flag" width="30"/> </h3>
 
 <p align="center">Welcome to my GitHub profile! 😊 Here you can explore my projects, skills, and get to know more about my work.</p>
 
